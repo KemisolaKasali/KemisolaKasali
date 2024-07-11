@@ -12,7 +12,7 @@
   - Creating innovative data visualization tools for workforce insights
   - Building ETL pipelines for HR data integration
   - Designing AI-powered chatbots for talent acquisition, employee experience and engagement and for providing personalized support and resolving people or business-related inquiries.
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/kemisola-m-kasali/) or [email](kemisola.kasali@gmail.com)
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/kemisola-m-kasali/) or kemisola.kasali@gmail.com
 - ⚡ Fun fact: I once analyzed the correlation between office coffee consumption and productivity and found that the "optimal caffeine zone" varies significantly by department. I enjoy drawing, meeting people and playing intellectual games.
 
 <!---
